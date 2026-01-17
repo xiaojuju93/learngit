@@ -5,4 +5,4 @@ second test remote repository
 branch dev test
 Creating a new branch is quick & simple.
 Creating a new branch is quick AND simple
-Test a new branch of dev.
+Test a new branch of dev.test0
