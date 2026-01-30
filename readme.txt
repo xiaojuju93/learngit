@@ -8,3 +8,4 @@ Creating a new branch is quick AND simple
 Test a new branch of dev.
 Test gitee
 Test push -u gitee
+test push two url
